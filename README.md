@@ -4,7 +4,7 @@
 
 ## Πρόγραμμα
 
-* Διαλέξεις κάθε Παρασκευή 11:00-14:00 στην αίθουσα Γ (μπορεί να αλλάξει κατόπιν συνεννόησης με τους φοιτητές του μαθήματος).
+* Διαλέξεις κάθε Δευτέρα 15:00-18:00 στην αίθουσα Α3
 * Ώρες Γραφείου: Τετάρτη 13:00-15:00, γραφείο Α40
 * Πρόσθεσε το πρόγραμμα του μαθήματος στο [google calendar](https://calendar.google.com/calendar/u/3?cid=Y180NTM5NmUxNzI0ZGRiM2E3YzY1YmFhMjExYWJmOTQ0MTllOTQwOTAwZGYxZmMwZmI2MmY3MmUyNGY0YTZlYjQ1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
