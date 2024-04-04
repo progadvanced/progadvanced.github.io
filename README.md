@@ -23,9 +23,9 @@
 
 * Διαλέξεις
 
-    | Ημερομηνία | Περιεχόμενο Μαθήματος | Αρχείο | Reading |
-    | --- | --- | --- | --- |
-    | 01/04 | Dynamic Taint Analysis and Forward Symbolic Execution | [DTAFSE](https://users.ece.cmu.edu/~aavgerin/papers/Oakland10.pdf) | |
+    | Ημερομηνία | Περιεχόμενο Μαθήματος | Reading |
+    | --- | --- | --- |
+    | 01/04 | Introduction and Dynamic Taint Analysis / Forward Symbolic Execution | [DTAFSE](https://users.ece.cmu.edu/~aavgerin/papers/Oakland10.pdf) |
 
 ## Βαθμολογία
 
