@@ -25,7 +25,7 @@
 
     | Ημερομηνία | Περιεχόμενο Μαθήματος | Αρχείο | Reading |
     | --- | --- | --- | --- |
-    | ΧΧ | Καλημέρα Κόσμε! | TBR | |
+    | 01/04 | Dynamic Taint Analysis and Forward Symbolic Execution | [DTAFSE](https://users.ece.cmu.edu/~aavgerin/papers/Oakland10.pdf) | |
 
 ## Βαθμολογία
 
