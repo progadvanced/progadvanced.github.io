@@ -26,6 +26,8 @@
     | Ημερομηνία | Περιεχόμενο Μαθήματος | Reading |
     | --- | --- | --- |
     | 01/04 | Introduction and Dynamic Taint Analysis / Forward Symbolic Execution | [DTAFSE](https://users.ece.cmu.edu/~aavgerin/papers/Oakland10.pdf) |
+    | 08/04 | Introduction to Fuzzing | [The Art, Science and Engineering of Fuzzing](https://arxiv.org/pdf/1812.00140.pdf) |
+
 
 ## Βαθμολογία
 
