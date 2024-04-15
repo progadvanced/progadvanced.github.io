@@ -10,7 +10,7 @@
 
 ## Επικοινωνία
 
-Ερωτήσεις για διαδικαστικά, το μάθημα και τις ασκήσεις αποκλειστικά στο Slack. **Στείλτε μου email** για την εγγραφή στο μάθημα με το GitHub id σου.
+Ερωτήσεις για διαδικαστικά, το μάθημα, διαφάνειες και εργασίες αποκλειστικά στο Slack. **Στείλτε μου email** για την εγγραφή στο μάθημα με το GitHub id σου.
 
 ## Συμμετοχή
 
@@ -28,6 +28,9 @@
     | 01/04 | Introduction and Dynamic Taint Analysis / Forward Symbolic Execution | [DTAFSE](https://users.ece.cmu.edu/~aavgerin/papers/Oakland10.pdf) |
     | 08/04 | Introduction to Fuzzing | [The Art, Science and Engineering of Fuzzing](https://arxiv.org/pdf/1812.00140.pdf) |
 
+## Εργασίες
+
+* Εργασία #0. Προθεσμία: Πέμπτη 25 Απριλίου, 23:59.
 
 ## Βαθμολογία
 
