@@ -29,6 +29,7 @@
     | 08/04 | Introduction to Fuzzing | [The Art, Science and Engineering of Fuzzing](https://arxiv.org/pdf/1812.00140.pdf) |
     | 15/04 | Fuzzing Binary Programs | [AFLNet: A Greybox Fuzzer for Network Protocols](https://ieeexplore.ieee.org/document/9159093) |
     | 22/04 | Fuzzing with Continuous Integration | [Redqueen: Fuzzing with Input-to-State Correspondence](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04A-2_Aschermann_paper.pdf) [Fuzz4All: Universal Fuzzing with Large Language Models](https://arxiv.org/abs/2308.04748) |
+    | 13/05 | Project Discussion |  |
 
 ## Εργασίες
 
