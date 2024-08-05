@@ -30,6 +30,14 @@
     | 15/04 | Fuzzing Binary Programs | [AFLNet: A Greybox Fuzzer for Network Protocols](https://ieeexplore.ieee.org/document/9159093) |
     | 22/04 | Fuzzing with Continuous Integration | [Redqueen: Fuzzing with Input-to-State Correspondence](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04A-2_Aschermann_paper.pdf) [Fuzz4All: Universal Fuzzing with Large Language Models](https://arxiv.org/abs/2308.04748) |
     | 13/05 | Project Discussion |  |
+    | 20/05 | Greybox Fuzzing and Libfuzzer | [Directed Greybox Fuzzing](https://dl.acm.org/doi/abs/10.1145/3133956.3134020) |
+    | 27/05 | Interacting with LLMs | [Evaluating Large Language Models Trained on Code](https://arxiv.org/pdf/2107.03374) |
+    | 03/06 | API Fuzzing | [RESTler: Stateful REST API Fuzzing](https://www.microsoft.com/en-us/research/uploads/prod/2021/03/RESTler.pdf) [GraphFuzz: Library API Fuzzing with Lifetime-aware Dataflow Graphs](https://hgarrereyn.github.io/GraphFuzz/research/GraphFuzz_ICSE_2022.pdf) |
+
+* Paper Sources
+
+[https://github.com/wcventure/FuzzingPaper](https://github.com/wcventure/FuzzingPaper)
+    
 
 ## Εργασίες
 
