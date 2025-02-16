@@ -4,8 +4,8 @@
 
 ## Πρόγραμμα
 
-* Διαλέξεις κάθε Δευτέρα 15:00-18:00 στην αίθουσα Α3
-* Ώρες Γραφείου: Τετάρτη 13:00-15:00, γραφείο Α40
+* Διαλέξεις κάθε Δευτέρα 10:00-13:00 στην αίθουσα Ε
+* Ώρες Γραφείου: Τετάρτη 13:00-14:00, γραφείο Α40
 * Πρόσθεσε το πρόγραμμα του μαθήματος στο [google calendar](https://calendar.google.com/calendar/u/3?cid=Y180NTM5NmUxNzI0ZGRiM2E3YzY1YmFhMjExYWJmOTQ0MTllOTQwOTAwZGYxZmMwZmI2MmY3MmUyNGY0YTZlYjQ1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
 ## Επικοινωνία
@@ -25,23 +25,15 @@
 
     | Ημερομηνία | Περιεχόμενο Μαθήματος | Reading |
     | --- | --- | --- |
-    | 01/04 | Introduction and Dynamic Taint Analysis / Forward Symbolic Execution | [DTAFSE](https://users.ece.cmu.edu/~aavgerin/papers/Oakland10.pdf) |
-    | 08/04 | Introduction to Fuzzing | [The Art, Science and Engineering of Fuzzing](https://arxiv.org/pdf/1812.00140.pdf) |
-    | 15/04 | Fuzzing Binary Programs | [AFLNet: A Greybox Fuzzer for Network Protocols](https://ieeexplore.ieee.org/document/9159093) |
-    | 22/04 | Fuzzing with Continuous Integration | [Redqueen: Fuzzing with Input-to-State Correspondence](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04A-2_Aschermann_paper.pdf) [Fuzz4All: Universal Fuzzing with Large Language Models](https://arxiv.org/abs/2308.04748) |
-    | 13/05 | Project Discussion |  |
-    | 20/05 | Greybox Fuzzing and Libfuzzer | [Directed Greybox Fuzzing](https://dl.acm.org/doi/abs/10.1145/3133956.3134020) |
-    | 27/05 | Interacting with LLMs | [Evaluating Large Language Models Trained on Code](https://arxiv.org/pdf/2107.03374) |
-    | 03/06 | API Fuzzing | [RESTler: Stateful REST API Fuzzing](https://www.microsoft.com/en-us/research/uploads/prod/2021/03/RESTler.pdf) [GraphFuzz: Library API Fuzzing with Lifetime-aware Dataflow Graphs](https://hgarrereyn.github.io/GraphFuzz/research/GraphFuzz_ICSE_2022.pdf) |
+    | 02/16 | Class Registration and Introductions | |
 
 * Paper Sources
 
 [https://github.com/wcventure/FuzzingPaper](https://github.com/wcventure/FuzzingPaper)
     
-
 ## Εργασίες
 
-* Εργασία #0. Προθεσμία: Πέμπτη 25 Απριλίου, 23:59.
+* TBD
 
 ## Βαθμολογία
 
