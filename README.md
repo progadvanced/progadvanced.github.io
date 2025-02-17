@@ -26,7 +26,7 @@
     | Ημερομηνία | Περιεχόμενο Μαθήματος | Class Reading |
     | --- | --- | --- |
     | 02/17 | Class Registration and Introduction | |
-    | 02/24 | Introduction to Fuzzing | [Art and Science of Fuzzing](https://arxiv.org/pdf/1812.00140) [Attention is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) |
+    | 02/24 | Introduction to Fuzzing | (1) [Art and Science of Fuzzing](https://arxiv.org/pdf/1812.00140) (2) [Attention is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) |
 
 * Paper Sources
 
