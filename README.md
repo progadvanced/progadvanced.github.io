@@ -4,7 +4,7 @@
 
 ## Πρόγραμμα
 
-* Διαλέξεις κάθε Δευτέρα 10:00-13:00 στην αίθουσα Ε
+* Διαλέξεις κάθε Τρίτη 11:00-14:00 στην αίθουσα Ζ
 * Ώρες Γραφείου: Τετάρτη 13:00-14:00, γραφείο Α40
 * Πρόσθεσε το πρόγραμμα του μαθήματος στο [google calendar](https://calendar.google.com/calendar/u/3?cid=Y180NTM5NmUxNzI0ZGRiM2E3YzY1YmFhMjExYWJmOTQ0MTllOTQwOTAwZGYxZmMwZmI2MmY3MmUyNGY0YTZlYjQ1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20).
 
