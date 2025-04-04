@@ -29,7 +29,8 @@
     | 02/24 | Introduction to Fuzzing | (1) [Art and Science of Fuzzing](https://arxiv.org/pdf/1812.00140) (2) [Attention is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) |
     | 03/04 | Harnessing Fundamentals | (1) [Fudge: Fuzz Driver Generation at Scale](https://research.google/pubs/fudge-fuzz-driver-generation-at-scale/) (2) [Utopia: Automatic Generation of Fuzz Driver using Unit Tests](https://ieeexplore.ieee.org/abstract/document/10179394) |
     | 03/11 | Fuzzing with AFL++ | (1) [Angora: Efficient fuzzing by principled search](https://web.cs.ucdavis.edu/~hchen/paper/chen2018angora.pdf) (2) [Everything is good for something: Counterexample-guided directed fuzzing via likely invariant inference](https://5hadowblad3.github.io/files/Oakland24-Halo.pdf) |
-    | 03/18 | Introduction to LLVM and Dataflow | |
+    | 03/18 | Introduction to LLVM and Dataflow | Project Discussion |
+    | 04/01 | Static Single Assignment | (1) [SoK: Demystifying Binary Lifters Through the Lens of Downstream Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9833799) (2) [Scalable Validation of Binary Lifters](https://dl.acm.org/doi/pdf/10.1145/3385412.3385964) |
 
 * Paper Sources
 
