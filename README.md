@@ -31,6 +31,7 @@
     | 03/11 | Fuzzing with AFL++ | (1) [Angora: Efficient fuzzing by principled search](https://web.cs.ucdavis.edu/~hchen/paper/chen2018angora.pdf) (2) [Everything is good for something: Counterexample-guided directed fuzzing via likely invariant inference](https://5hadowblad3.github.io/files/Oakland24-Halo.pdf) |
     | 03/18 | Introduction to LLVM and Dataflow | Project Discussion |
     | 04/01 | Static Single Assignment | (1) [SoK: Demystifying Binary Lifters Through the Lens of Downstream Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9833799) (2) [Scalable Validation of Binary Lifters](https://dl.acm.org/doi/pdf/10.1145/3385412.3385964) |
+    | 04/08 | Introduction to SMT Solvers | (1) [Satisfiability modulo theories: An appetizer](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=aea4af6078b682d09fb8530db155dd797079d265) (2) [Validating SMT Solvers for Correctness and Performance via Grammar-Based Enumeration](https://dl.acm.org/doi/pdf/10.1145/3689795) |
 
 * Paper Sources
 
