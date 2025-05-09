@@ -23,7 +23,7 @@
 
 * Διαλέξεις
 
-    | Ημερομηνία | Περιεχόμενο Μαθήματος | Class Reading |
+    | Date | Description | Class Reading |
     | --- | --- | --- |
     | 02/17 | Class Registration and Introduction | |
     | 02/24 | Introduction to Fuzzing | (1) [Art and Science of Fuzzing](https://arxiv.org/pdf/1812.00140) (2) [Attention is All You Need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) |
@@ -33,6 +33,7 @@
     | 04/01 | Static Single Assignment | (1) [SoK: Demystifying Binary Lifters Through the Lens of Downstream Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9833799) (2) [Scalable Validation of Binary Lifters](https://dl.acm.org/doi/pdf/10.1145/3385412.3385964) |
     | 04/08 | Introduction to SMT Solvers | (1) [Satisfiability modulo theories: An appetizer](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=aea4af6078b682d09fb8530db155dd797079d265) (2) [Validating SMT Solvers for Correctness and Performance via Grammar-Based Enumeration](https://dl.acm.org/doi/pdf/10.1145/3689795) |
     | 04/29 | Introduction to Symbolic Execution | (1) [All You Ever Wanted to Know about DTA and SymEx](https://users.ece.cmu.edu/~aavgerin/papers/Oakland10.pdf) (2) [Hevm, a Fast Symbolic Execution Framework for EVM Bytecode](https://link.springer.com/chapter/10.1007/978-3-031-65627-9_22) |
+    | 05/06 | Symbolic Execution Systems | (1) [KLEE: Unassisted and automatic generation of high-coverage tests](https://www.usenix.org/legacy/event/osdi08/tech/full_papers/cadar/cadar.pdf) (2) [Enhancing symbolic execution with veritesting](https://users.ece.cmu.edu/~aavgerin/papers/veritesting-icse-2014.pdf) |
 
 
 * Paper Sources
