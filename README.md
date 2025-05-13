@@ -34,6 +34,7 @@
     | 04/08 | Introduction to SMT Solvers | (1) [Satisfiability modulo theories: An appetizer](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=aea4af6078b682d09fb8530db155dd797079d265) (2) [Validating SMT Solvers for Correctness and Performance via Grammar-Based Enumeration](https://dl.acm.org/doi/pdf/10.1145/3689795) |
     | 04/29 | Introduction to Symbolic Execution | (1) [All You Ever Wanted to Know about DTA and SymEx](https://users.ece.cmu.edu/~aavgerin/papers/Oakland10.pdf) (2) [Hevm, a Fast Symbolic Execution Framework for EVM Bytecode](https://link.springer.com/chapter/10.1007/978-3-031-65627-9_22) |
     | 05/06 | Symbolic Execution Systems | (1) [KLEE: Unassisted and automatic generation of high-coverage tests](https://www.usenix.org/legacy/event/osdi08/tech/full_papers/cadar/cadar.pdf) (2) [Enhancing symbolic execution with veritesting](https://users.ece.cmu.edu/~aavgerin/papers/veritesting-icse-2014.pdf) |
+    | 05/13 | Structure-Aware Fuzzing | (1) [Detecting C++ compiler front-end bugs via grammar mutation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9777893) (2) [Superion: Grammar-aware greybox fuzzing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8811923) |
 
 
 * Paper Sources
